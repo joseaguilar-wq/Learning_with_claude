@@ -198,11 +198,16 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "3f16cf02bfde234d",
+  "active": "a9c91fb2bbfa49d8",
   "lastOpenFiles": [
-    "00_MOC_Capacitacion_IA.md",
-    "plantilla_prompt_base.md",
+    "De Cero a Experto con IA.gslides",
     "plantilla_CLAUDE_md.md",
+    "plantilla_prompt_base.md",
+    "context.md",
+    "bloque_01_que_es_un_LLM.md",
+    "context.md.tmp.5.1776286970787",
+    "bloque_02_prompt_engineering.md",
+    "00_MOC_Capacitacion_IA.md",
     "bloque_05_obsidian_cerebro_claude.md",
     "desktop.ini",
     "bloque_04_flujos_trabajo_ia.md",
@@ -211,14 +216,10 @@
     "00_MOC_Capacitacion_IA.md.tmp.5.1776279408248",
     "plantilla_CLAUDE_md.md.tmp.5.1776279404404",
     "bloque_05_obsidian_cerebro_claude.md.tmp.5.1776279383698",
-    "bloque_01_que_es_un_LLM.md",
     "00_MOC_Capacitacion_IA.md.tmp.5.1776279104340",
     "context.md.tmp.5.1776279100932",
     "bloque_04_flujos_trabajo_ia.md.tmp.5.1776279097187",
     "bloque_03_optimizacion_tokens.md",
-    "bloque_02_prompt_engineering.md",
-    "00_MOC_Capacitacion_IA.md.tmp.5.1776278720383",
-    "context.md",
     "caveman.md"
   ]
 }
