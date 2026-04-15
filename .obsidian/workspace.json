@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "47cc0a679b0085d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0434edc944047455",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9c91fb2bbfa49d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_MOC_Capacitacion_IA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_MOC_Capacitacion_IA"
+            }
+          }
+        ]
+      },
+      {
+        "id": "91067359c4924548",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f16cf02bfde234d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f505dd43b41cad5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6e33eedd66e6c75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df14d77bca65b251",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "90e2690f5870fe04",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "25a81a14673ae6db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "198ecd98424493e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "aae270e6c59f61aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd3d77e09f39af46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "da9f44a6dc5b1fd9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "61246fcb313927c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "152e893aa40c3b69",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "dd0e06e0b72684b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "3f16cf02bfde234d",
+  "lastOpenFiles": [
+    "00_MOC_Capacitacion_IA.md",
+    "plantilla_prompt_base.md",
+    "plantilla_CLAUDE_md.md",
+    "bloque_05_obsidian_cerebro_claude.md",
+    "desktop.ini",
+    "bloque_04_flujos_trabajo_ia.md",
+    "context.md.tmp.5.1776279415376",
+    "00_MOC_Capacitacion_IA.md.tmp.5.1776279411984",
+    "00_MOC_Capacitacion_IA.md.tmp.5.1776279408248",
+    "plantilla_CLAUDE_md.md.tmp.5.1776279404404",
+    "bloque_05_obsidian_cerebro_claude.md.tmp.5.1776279383698",
+    "bloque_01_que_es_un_LLM.md",
+    "00_MOC_Capacitacion_IA.md.tmp.5.1776279104340",
+    "context.md.tmp.5.1776279100932",
+    "bloque_04_flujos_trabajo_ia.md.tmp.5.1776279097187",
+    "bloque_03_optimizacion_tokens.md",
+    "bloque_02_prompt_engineering.md",
+    "00_MOC_Capacitacion_IA.md.tmp.5.1776278720383",
+    "context.md",
+    "caveman.md"
+  ]
+}
