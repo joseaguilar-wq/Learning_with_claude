@@ -85,7 +85,7 @@ Compañeros del equipo. Usan IA variada (Claude, ChatGPT, otras). Consumos altos
 ---
 
 ## Ideas anotadas / decisiones tomadas
-- Caveman.md como ejemplo vivo de optimización de tokens durante la clase SIEMPRE USAR
+- caveman.md como ejemplo vivo de optimización de tokens durante la clase SIEMPRE USAR
 - Mostrar graph view de Obsidian al final del bloque 5 como demo visual del "cerebro"
 - Context rot graph (tabla de precisión vs tokens) es el slide más impactante del bloque 3
 - Framework RTFC es el concepto ancla de todo el curso → reforzar en múltiples bloques

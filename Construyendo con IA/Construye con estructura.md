@@ -130,3 +130,9 @@ No quiero solo "algo que funciona". Quiero un producto funcional, claro y presen
 ## Nota rápida
 
 Úsalo como framework operativo. Si la respuesta sale demasiado amplia, recorta a un MVP de 7 días y vuelve a ejecutar.
+
+---
+## 🔗 Fundamentos relacionados
+- [[bloque_02_prompt_engineering|Bloque 2 — Prompt Engineering]] — este prompt aplica el framework RTFC llevado al máximo
+- [[plantilla_prompt_base|Plantilla RTFC base]] — versión simplificada para tareas cotidianas antes de llegar a este nivel
+- [[bloque_04_flujos_trabajo_ia|Bloque 4 — Flujos de trabajo]] — las 5 fases de este prompt siguen el patrón Investigar→Borrador→Revisión→Publicar

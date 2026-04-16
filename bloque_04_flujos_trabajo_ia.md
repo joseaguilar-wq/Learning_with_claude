@@ -4,7 +4,7 @@ bloque: 4
 duracion: 10 min
 previo: "[[bloque_03_optimizacion_tokens]]"
 siguiente: "[[bloque_05_obsidian_cerebro_claude]]"
-relacionado: ["[[bloque_02_prompt_engineering]]", "[[bloque_05_obsidian_cerebro_claude]]", "[[plantilla_prompt_base]]"]
+relacionado: ["[[bloque_02_prompt_engineering]]", "[[bloque_05_obsidian_cerebro_claude]]", "[[plantilla_prompt_base]]", "[[Construyendo con IA/Indice de agentes IA]]", "[[Construyendo con IA/Equipos Multi-agente]]"]
 ---
 
 # Bloque 4 — Flujos de Trabajo con IA
@@ -202,5 +202,8 @@ Solo compromisos. Sin contexto.
 
 > [!info] Navegación
 > ← [[bloque_03_optimizacion_tokens]] | Siguiente → [[bloque_05_obsidian_cerebro_claude]]
+
+> [!tip] Siguiente nivel — automatiza estos flujos con agentes
+> Cuando los patrones de trabajo ya son rutina, despliega agentes que los ejecuten solos: [[Construyendo con IA/Indice de agentes IA|Índice de agentes IA]] · [[Construyendo con IA/Equipos Multi-agente|Equipos Multi-agente]]
 
 *Fuentes: HBR "Workslop" (2025), CIO "40% rework" (2025), McKinsey AI Workflows, Federal Reserve Productivity Research, Anthropic Productivity Study, MindStudio HITL Guide*

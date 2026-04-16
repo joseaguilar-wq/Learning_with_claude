@@ -13,3 +13,9 @@ Usa estos prompts para que Claude gestione el repositorio `awesome-llm-apps` por
 
 ## 📞 Soporte por voz 24/7
 > Instala el [[Customer Support Voice Agent]]. Configura las FAQs: [Preguntas].
+
+---
+## 🔗 Fundamentos relacionados
+- [[bloque_02_prompt_engineering|Bloque 2 — Prompt Engineering]] — los prompts de esta guía aplican el framework RTFC
+- [[plantilla_prompt_base|Plantilla RTFC base]] — punto de partida para construir tus propios prompts de Code
+- [[bloque_03_optimizacion_tokens|Bloque 3 — Optimización de tokens]] — usa caveman mode en los prompts de instalación para reducir tokens

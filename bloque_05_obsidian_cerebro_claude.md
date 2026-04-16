@@ -4,7 +4,7 @@ bloque: 5
 duracion: 15 min
 previo: "[[bloque_04_flujos_trabajo_ia]]"
 siguiente: "[[00_MOC_Capacitacion_IA]]"
-relacionado: ["[[plantilla_prompt_base]]", "[[plantilla_CLAUDE_md]]", "[[bloque_03_optimizacion_tokens]]"]
+relacionado: ["[[plantilla_prompt_base]]", "[[plantilla_CLAUDE_md]]", "[[bloque_03_optimizacion_tokens]]", "[[Construyendo con IA/Sistemas RAG]]", "[[Construyendo con IA/Indice de agentes IA]]"]
 ---
 
 # Bloque 5 — Obsidian como Cerebro de Claude
@@ -318,5 +318,8 @@ Agregar siempre fecha concreta de resolución en párrafo 2.
 
 > [!info] Navegación
 > ← [[bloque_04_flujos_trabajo_ia]] | Volver al mapa → [[00_MOC_Capacitacion_IA]]
+
+> [!tip] Conecta tu vault con un agente RAG
+> Un [[Construyendo con IA/Sistemas RAG|sistema RAG]] puede consultar directamente tu vault de Obsidian, eliminando el paso manual de copiar contexto. Es el siguiente nivel del flujo nota→Claude→vault.
 
 *Fuentes: MindStudio "Build AI Second Brain with Obsidian" (2026), Medium "Obsidian + Claude Code" (2026), DEV Community "Claude Code Inside Obsidian" (2026), Obsidian Dataview Docs, QuickAdd Guide, Templater Plugin Docs*

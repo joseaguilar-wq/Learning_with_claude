@@ -12,3 +12,9 @@ Analiza tu negocio y proporciona recomendaciones estratégicas basadas en datos.
 3. Sugerencias de optimización.
 
 **Prompt de configuración rápida:** [[Prompts para Claude Code#Consultor para tu negocio]]
+
+---
+## 🔗 Fundamentos relacionados
+- [[bloque_02_prompt_engineering|Bloque 2 — Prompt Engineering]] — framework RTFC para configurar el agente correctamente
+- [[bloque_04_flujos_trabajo_ia|Bloque 4 — Flujos de trabajo]] — integra el consultor en el patrón Investigar→Borrador→Revisión
+- [[bloque_01_que_es_un_LLM|Bloque 1 — Qué es un LLM]] — entiende qué puede y qué no puede hacer el agente

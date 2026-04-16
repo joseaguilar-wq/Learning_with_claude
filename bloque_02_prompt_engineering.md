@@ -4,7 +4,7 @@ bloque: 2
 duracion: 20 min
 previo: "[[bloque_01_que_es_un_LLM]]"
 siguiente: "[[bloque_03_optimizacion_tokens]]"
-relacionado: ["[[bloque_05_obsidian_cerebro_claude]]", "[[plantilla_prompt_base]]"]
+relacionado: ["[[bloque_05_obsidian_cerebro_claude]]", "[[plantilla_prompt_base]]", "[[Construyendo con IA/Construye con estructura]]", "[[Construyendo con IA/Prompts para Code]]"]
 ---
 
 # Bloque 2 — Prompt Engineering

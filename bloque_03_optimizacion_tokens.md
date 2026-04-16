@@ -4,7 +4,7 @@ bloque: 3
 duracion: 15 min
 previo: "[[bloque_02_prompt_engineering]]"
 siguiente: "[[bloque_04_flujos_trabajo_ia]]"
-relacionado: ["[[bloque_01_que_es_un_LLM]]", "[[bloque_05_obsidian_cerebro_claude]]", "[[plantilla_prompt_base]]"]
+relacionado: ["[[bloque_01_que_es_un_LLM]]", "[[bloque_05_obsidian_cerebro_claude]]", "[[plantilla_prompt_base]]", "[[Construyendo con IA/Sistemas RAG]]"]
 ---
 
 # Bloque 3 — Optimización de Tokens

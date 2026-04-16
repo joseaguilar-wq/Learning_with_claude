@@ -4,7 +4,7 @@ bloque: 1
 duracion: 10 min
 previo: "[[00_MOC_Capacitacion_IA]]"
 siguiente: "[[bloque_02_prompt_engineering]]"
-relacionado: ["[[bloque_03_optimizacion_tokens]]", "[[bloque_05_obsidian_cerebro_claude]]"]
+relacionado: ["[[bloque_03_optimizacion_tokens]]", "[[bloque_05_obsidian_cerebro_claude]]", "[[Construyendo con IA/Sistemas RAG]]"]
 ---
 
 # Bloque 1 — ¿Qué es un LLM y cómo piensa?

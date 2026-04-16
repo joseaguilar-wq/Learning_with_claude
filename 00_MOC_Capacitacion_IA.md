@@ -67,6 +67,17 @@ Objetivo: reducir consumo de tokens, mejorar calidad de outputs, construir un ce
 
 ---
 
+## 🔨 Aplicación Práctica — Construyendo con IA
+
+- [[Construyendo con IA/Indice de agentes IA|Índice de agentes IA]] — 100+ agentes listos para desplegar en tu negocio
+- [[Construyendo con IA/Construye con estructura|Construye con estructura]] — prompt maestro para pasar de idea a app real
+- [[Construyendo con IA/Equipos Multi-agente|Equipos Multi-agente]] — múltiples agentes especializados colaborando
+- [[Construyendo con IA/Sistemas RAG|Sistemas RAG]] — consulta tus documentos sin alucinaciones
+- [[Construyendo con IA/Agentes de Voz|Agentes de Voz]] — soporte 24/7 por voz
+- [[Construyendo con IA/Prompts para Code|Prompts para Code]] — prompts listos para Claude Code
+
+---
+
 ## 🔑 Conceptos clave (índice rápido)
 
 - **Token** → [[bloque_01_que_es_un_LLM#2. ¿Qué son los tokens?]]
