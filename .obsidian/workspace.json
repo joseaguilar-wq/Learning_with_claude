@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "context.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "context"
-            }
-          }
-        ]
-      },
-      {
-        "id": "93d7226a06498e50",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1822cccc889c6a1b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "README"
             }
           }
         ]
@@ -196,8 +180,9 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "1822cccc889c6a1b",
+  "active": "a9c91fb2bbfa49d8",
   "lastOpenFiles": [
+    "README.md",
     "context.md",
     "00_MOC_Capacitacion_IA.md",
     "Construyendo con IA/Indice de agentes IA.md",
