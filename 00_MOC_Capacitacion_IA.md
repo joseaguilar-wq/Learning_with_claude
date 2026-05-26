@@ -3,7 +3,6 @@ tags: [MOC, capacitacion, IA, mapa-de-contenido]
 tipo: MOC
 actualizado: 2026-04-15
 ---
-
 # 🧠 Capacitación IA — Mapa de Contenido (MOC)
 
 > Este es el nodo central del vault. Desde aquí navegas a todos los bloques de la clase.
@@ -13,7 +12,7 @@ actualizado: 2026-04-15
 ## 📍 ¿Qué es esto?
 
 Capacitación magistral de **1 hora** sobre IA y Claude para el equipo.  
-Objetivo: reducir consumo de tokens, mejorar calidad de outputs, construir un cerebro con Obsidian.
+Objetivo: reducir consumo de tokens, mejorar calidad de outputs, construir un cerebro con Obsidian. 
 
 ---
 
@@ -62,8 +61,8 @@ Objetivo: reducir consumo de tokens, mejorar calidad de outputs, construir un ce
 ## 🧩 Recursos del vault
 
 - [[plantilla_prompt_base]] — Template RTFC reutilizable
-- [[plantilla_CLAUDE_md]] — Template de memoria persistente para el vault
-- [[context]] — Memoria del proyecto (actualizaciones)
+- [[plantilla_CLAUDE]] — Template de memoria persistente para el vault
+- [[context_general_proyectos]] — Memoria del proyecto (actualizaciones)
 
 ---
 

@@ -15,11 +15,11 @@ relacionado: ["[[bloque_02_prompt_engineering]]", "[[00_MOC_Capacitacion_IA]]"]
 
 ```
 [ROL]
-Actúa como ___
+Actúa como Desarrollador senior de web
 
 [TAREA]
-Tu objetivo es ___
-Específicamente debes ___
+Tu objetivo es construir una landing page de una empresa que se encarga de la venta de polimeros 
+Específicamente debes crear una pagina moderna, colorida y que se apegue al archivo de contextp #contexto 
 
 [CONTEXTO]
 - Audiencia: ___
@@ -27,19 +27,19 @@ Específicamente debes ___
 - Información relevante: ___
 
 [FORMATO]
-- Estructura: ___
-- Longitud máxima: ___
-- Tono: ___
-- Idioma: ___
+- Estructura: landing page
+- Longitud máxima: un carrousel de 5 imagenes
+- Tono: Profesional orientado a ventas
+- Idioma: Español
 
 [RESTRICCIONES]
-- No incluir: ___
-- Evitar: ___
-- Supuestos a NO hacer: ___
+- No incluir: nada que no sea nuestro #contexto 
+- Evitar: crear ietraciones externas y llamadas a archivos que no esten indicados
+- Supuestos a NO hacer: NO hacer servidor, No hacer un apartado de api, etc
 
 --- INSUMO ---
 [pega aquí el contenido a procesar]
-```
+
 
 ---
 

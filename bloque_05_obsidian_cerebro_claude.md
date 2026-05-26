@@ -1,10 +1,22 @@
 ---
-tags: [capacitacion, bloque, obsidian, segundo-cerebro, vault, memoria, plugins]
+tags:
+  - capacitacion
+  - bloque
+  - obsidian
+  - segundo-cerebro
+  - vault
+  - memoria
+  - plugins
 bloque: 5
 duracion: 15 min
 previo: "[[bloque_04_flujos_trabajo_ia]]"
 siguiente: "[[00_MOC_Capacitacion_IA]]"
-relacionado: ["[[plantilla_prompt_base]]", "[[plantilla_CLAUDE_md]]", "[[bloque_03_optimizacion_tokens]]", "[[Construyendo con IA/Sistemas RAG]]", "[[Construyendo con IA/Indice de agentes IA]]"]
+relacionado:
+  - "[[plantilla_prompt_base]]"
+  - "[[plantilla_CLAUDE]]"
+  - "[[bloque_03_optimizacion_tokens]]"
+  - "[[Construyendo con IA/Sistemas RAG]]"
+  - "[[Construyendo con IA/Indice de agentes IA]]"
 ---
 
 # Bloque 5 — Obsidian como Cerebro de Claude
@@ -124,7 +136,7 @@ Un archivo en la raíz del vault que le dice a Claude todo lo que necesita saber
 ```
 
 > [!tip] Plantilla completa
-> Ver [[plantilla_CLAUDE_md]] para la versión lista para copiar y personalizar.
+> Ver [[plantilla_CLAUDE]] para la versión lista para copiar y personalizar.
 
 ---
 

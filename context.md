@@ -1,5 +1,9 @@
 # PROYECTO: Capacitación IA — Mejores Prácticas
 
+> Conexiones pool: [[CLAUDE]] | [[context_proyectos]] | [[framework_operative_enforrcement/CLAUDE]] | [[framework_operative_enforrcement/PLAYBOOK]]
+> Soy referenciado por: [[market_intelligence/context]] | [[ventas_rafias_go/context]] | [[automatizacion ventas sacos/ventas_sacos_go/context]] | [[llm_coworkers/context]]
+> Fase 8 — Completado. Recurso de formacion. Excluido de tracking semanal.
+
 ## Metadatos
 - **Responsable:** Nexus GO (nexus.go@grupo-ortiz.com)
 - **Última actualización:** 2026-04-15
@@ -25,15 +29,14 @@ Compañeros del equipo. Usan IA variada (Claude, ChatGPT, otras). Consumos altos
 
 ## Estructura final de la clase — v2 DEFINITIVA
 
-| # | Bloque | Duración | Archivo | Estado |
-|---|--------|----------|---------|--------|
-| 1 | ¿Qué es un LLM? | 10 min | `bloque_01_que_es_un_LLM.md` | ✅ |
-| 2 | Prompt Engineering | 20 min | `bloque_02_prompt_engineering.md` | ✅ |
-| 3 | Optimización de tokens | 15 min | `bloque_03_optimizacion_tokens.md` | ✅ |
-| 4 | Flujos de trabajo con IA | 10 min | `bloque_04_flujos_trabajo_ia.md` | ✅ |
-| 5 | Obsidian como cerebro de Claude | 15 min | `bloque_05_obsidian_cerebro_claude.md` | ✅ |
-| — | Q&A + demo viva | 10 min | — | — |
-| **Total** | | **~1h 20min** | | |
+| #   | Bloque                          | Duración | Archivo                                | Estado |
+| --- | ------------------------------- | -------- | -------------------------------------- | ------ |
+| 1   | ¿Qué es un LLM?                 | 10 min   | `bloque_01_que_es_un_LLM.md`           | ✅      |
+| 2   | Prompt Engineering              | 20 min   | `bloque_02_prompt_engineering.md`      | ✅      |
+| 3   | Optimización de tokens          | 15 min   | `bloque_03_optimizacion_tokens.md`     | ✅      |
+| 4   | Flujos de trabajo con IA        | 10 min   | `bloque_04_flujos_trabajo_ia.md`       | ✅      |
+| 5   | Obsidian como cerebro de Claude | 15 min   | `bloque_05_obsidian_cerebro_claude.md` | ✅      |
+
 
 ---
 
@@ -55,7 +58,7 @@ Compañeros del equipo. Usan IA variada (Claude, ChatGPT, otras). Consumos altos
 
 ---
 
-## Convenciones del vault (Obsidian)
+## Convenciones del vault 
 - Frontmatter YAML en todos los archivos (tags, bloque, previo, siguiente, relacionado)
 - `[[wiki links]]` bidireccionales entre todos los bloques
 - Callouts: `[!info]` navegación, `[!tip]` conexiones cruzadas, `[!warning]` alertas
